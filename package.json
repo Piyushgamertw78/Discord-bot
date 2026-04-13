@@ -1,0 +1,23 @@
+{
+  "name": "discord-ultra-bot",
+  "version": "3.0.0",
+  "description": "Ultimate Discord Bot with 100+ Commands, AI, Economy & More",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "ai", "economy", "moderation"],
+  "author": "Piyush",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.5",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.7.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
